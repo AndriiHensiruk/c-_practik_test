@@ -1,0 +1,7 @@
+﻿  game.cpp
+C:\Users\Professional\Documents\testing_fugas_praktic\Snake_game_C++_SDL_simple\game.cpp(78,24): warning C4244: аргумент: преобразование "const _Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Snake_game_C++_SDL_simple.vcxproj -> C:\Users\Professional\Documents\testing_fugas_praktic\Snake_game_C++_SDL_simple\Debug\Snake_game_C++_SDL_simple.exe

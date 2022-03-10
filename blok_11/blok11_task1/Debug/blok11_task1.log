@@ -1,0 +1,5 @@
+﻿  blok11_task1.cpp
+C:\Users\Professional\Documents\testing_fugas_praktic\blok_11\blok11_task1\blok11_task1.cpp(200,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\Documents\testing_fugas_praktic\blok_11\blok11_task1\blok11_task1.cpp(301,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Professional\Documents\testing_fugas_praktic\blok_11\blok11_task1\blok11_task1.cpp(308,33): warning C4018: <: несоответствие типов со знаком и без знака
+  blok11_task1.vcxproj -> C:\Users\Professional\Documents\testing_fugas_praktic\blok_11\blok11_task1\Debug\blok11_task1.exe

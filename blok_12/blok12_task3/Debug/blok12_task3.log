@@ -1,0 +1,4 @@
+﻿  blok12_task3.cpp
+C:\Users\Professional\Documents\testing_fugas_praktic\blok_12\blok12_task3\blok12_task3.cpp(481,21): warning C4305: =: усечение из "int" в "float"
+C:\Users\Professional\Documents\testing_fugas_praktic\blok_12\blok12_task3\blok12_task3.cpp(590,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  blok12_task3.vcxproj -> C:\Users\Professional\Documents\testing_fugas_praktic\blok_12\blok12_task3\Debug\blok12_task3.exe
